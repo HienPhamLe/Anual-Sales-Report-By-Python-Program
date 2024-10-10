@@ -16,10 +16,35 @@ Order ID, Product, Quantity Ordered, Price Each, Order Date, Purchase Address
 
 ![](images/data_form.PNG) 
 
-## Key Insights
+## Visualizations
 
 ### Sales By Month
 ![](images/sales_by_month_column_chart.png)
 
 We can see that the peak season falls in the final months of the year, with December being the highest.
+
+### Sales By City
+![](images/sales_by_city_column_chart.png)
+
+San Francisco is the city has the best sales.
+
+### Sales By Hour
+![](images/sales_by_hour_line_chart.png)
+
+There are two time periods with the highest number of purchases: 11h to 13h and 18h to 20h.
+
+### Top Products Sold Together
+![](images/top_products_sold_together.PNG)
+
+These are the top 10 product combinations sold together.
+
+### Sales By Product
+![](images/sales_by_product_column_chart.png)
+
+The chart shows the sales of each product, along with the average unit price of the product. This allows for an evaluation of the correlation between product price and sales.
+
+
+
+
+
 
